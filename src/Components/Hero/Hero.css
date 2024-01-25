@@ -27,9 +27,6 @@
   align-items: center;
   gap: 20px;
 }
-.hero-hand-icon img {
-  width: 100px;
-}
 #arrow {
   height: 200px;
   width: 200px;
@@ -46,6 +43,16 @@
   border-radius: 75px;
   margin-top: 30px;
   background: #920e9b;
+  color: white;
   font-size: 22px;
   font-weight: 500;
+}
+.hero-right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero-right img {
+  height: 100vh;
 }

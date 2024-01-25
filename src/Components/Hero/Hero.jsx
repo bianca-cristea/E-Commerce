@@ -15,8 +15,8 @@ const Hero = () => {
         </div>
         <div className="hero-latest-btn">
           <p>Latest collection</p>
-          <img id="arrow" src={arrow} alt="arrow" />
         </div>
+        <img id="arrow" src={arrow} alt="arrow" />
       </div>
       <div className="hero-right">
         <img src={latestCollection} alt="latestCollection" />

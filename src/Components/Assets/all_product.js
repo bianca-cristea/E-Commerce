@@ -11,9 +11,9 @@ import w_jeans2 from './w_jeans2.jpg';
 import w_jeans3 from './w_jeans3.jpg';
 import w_jeans4 from './w_jeans4.jpg';
 import w_skirt from './w_skirt.jpg';
-import w_top1 from './w_top.jpg';
-import w_top2 from './w_top.jpg';
-import w_top3 from './w_top.jpg';
+import w_top1 from './w_top1.jpg';
+import w_top2 from './w_top2.jpg';
+import w_top3 from './w_top3.jpg';
 import m_blackShirt from './m_blackShirt.jpg';
 import m_BrownCoat from './m_BrownCoat.jpg';
 import m_HoodieSweatpants from './m_Hoodie&Sweatpants.jpg';
@@ -31,10 +31,10 @@ import k_hoodedJacket from './k_hoodedJacket.jpg';
 import k_jumpsuit from './k_jumpsuit.jpg';
 import k_set from './k_set.jpg';
 import k_sweater from './k_sweater.jpg';
-import k_topShorts from './k_top&shorts';
+import k_topShorts from './k_top&shorts.jpg';
 import k_topShortsDino from './k_top&shortsDino.jpg';
 import k_tracksuitSet from './k_tracksuitSet.jpg';
-import k_warmJumpsuit from './k_warmJumpsuit.jpg';
+import k_warmjumpsuit from './k_warmJumpsuit.jpg';
 
 let all_product = [
   {
@@ -329,8 +329,9 @@ let all_product = [
     id: 29,
     name: 'Warm Jumpsuit',
     category: 'kids',
-    image: k_jumpsuit,
+    image: k_warmjumpsuit,
     new_price: '$60',
     old_price: '$67',
   },
 ];
+export default all_product;
