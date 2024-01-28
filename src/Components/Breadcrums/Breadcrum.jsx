@@ -6,7 +6,7 @@ const Breadcrum = (props) => {
   return (
     <div className="breadcrum">
       <p>
-        HOME &gt SHOP &gt {product.category} &gt {product.name}
+        HOME > SHOP > {product.category} > {product.name}
       </p>
     </div>
   );

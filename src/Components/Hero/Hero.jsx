@@ -1,6 +1,5 @@
 import React from 'react';
 import './Hero.css';
-import hand from '../Assets/hand.jpg';
 import latestCollection from '../Assets/latestCollection.jpg';
 import arrow from '../Assets/arrow.jpg';
 
