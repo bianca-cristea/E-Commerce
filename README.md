@@ -1,10 +1,10 @@
-# E-Commerce Website Using React JS, MongoDB, Express & Node JS
+# E-Commerce App Using React JS, MongoDB, Express & Node JS
 
-How to run:
-- clone project
-- npm i
-- `npm run build`
-- `npm run start`
-  <img width="946" alt="p1" src="https://github.com/user-attachments/assets/563b743f-afb9-4dc0-856a-e9c764d6aba0">
-
-This is a fully functional MERN (MongoDB, Express.js, React.js, Node.js) website that includes a variety of features. Users can select and deselect clothing items,  administrator has access to a dedicated admin panel to manage and add new clothing items. The website offers a comprehensive suite of functionalities.
+ 
+Aceasta este o aplicatie web realizata cu ajutorul tehnologiilor MERN. 
+-Aceasta contine functionalitati pentru a fi cat mai aproape de realitate. Hainele sunt filtrate pe categorii, in sensul ca exista posibiltatea de a afisa toate hainele, pentru famei/barbati/copii, astfel incat utilizatorul sa poata gasi cat mai rapid ceea ce isi doreste.
+-sistem de autentificare
+-Userii pot selecta si deselecta produse. Se va sincroniza cu cosul de cumparaturi si va afisa numarul de produse in cos.
+-Administratorul are un panou dedicat de unde poate gestiona si adauga noi produse.
+ 
+<img width="946" alt="p1" src="https://github.com/user-attachments/assets/563b743f-afb9-4dc0-856a-e9c764d6aba0">
